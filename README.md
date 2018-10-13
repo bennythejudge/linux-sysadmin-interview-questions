@@ -1,6 +1,8 @@
 Linux System Administrator/DevOps Interview Questions
 ====================================================
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/linux-sysadmin-interview-questions.svg)](https://www.guardrails.io)
+
 A collection of linux sysadmin/devops interview questions. Feel free to contribute via pull requests, issues or email messages.
 
 
